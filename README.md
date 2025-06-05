@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nanuchag
 - 👀 I’m interested in Deveps. 
 - 🌱 I’m currently learning frond-end (HTML, CSS, Javascript)
+- 💻 I'm Data Analyst (SQL, Power BI, Tableau, Excel)
 - 💞️ I’m looking to collaborate on everything to apply my knowledge, ideas and some stuffs.
 - 📫 How to reach me  
 -   @nanuchag Instagram
